@@ -16,7 +16,7 @@ http://www.pazera-software.com/misc/pdscript-ide-pl/pdScript_IDE_PL_translation.
 ## Instalacja
 
 - Zamknij program, jeśli jest uruchomiony.
-- Pobierz powyższy plik ZIP i wypakuj go do katalogu z programem pdScript IDE (powinien on zawierać podkatalogi `Lang` i `Extras`). Musisz potwierdzić nadpisanie kilku plików (to jest konieczne).
+- Pobierz powyższy plik ZIP i wypakuj go do katalogu z programem pdScript IDE (powinien on zawierać podkatalogi `Langs` i `Extras`). Musisz potwierdzić nadpisanie kilku plików (to jest konieczne).
 - Uruchom pdScript IDE i wybierz menu **Tools** --> **Options**. Pojawi się okno z konfiguracją programu.
 - Wybierz język polski na rozwijalnej liście *User interface language* i kliknij przycisk **OK**.
 

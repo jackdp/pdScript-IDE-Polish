@@ -16,7 +16,7 @@ http://www.pazera-software.com/misc/pdscript-ide-pl/pdScript_IDE_PL_translation.
 ## Installation
 
 - Close the program if it is running.
-- Download the above ZIP file and extract it to the pdScript IDE directory (it should contain the subdirectories `Lang` and `Extras`). You must confirm overwriting several files (this is necessary).
+- Download the above ZIP file and extract it to the pdScript IDE directory (it should contain the subdirectories `Langs` and `Extras`). You must confirm overwriting several files (this is necessary).
 - Run the pdScript IDE and select menu **Tools** --> **Options**. A new window will appear with the program settings.
 - Choose Polish language on the *User interface language* drop-down list and click **OK**.
 
