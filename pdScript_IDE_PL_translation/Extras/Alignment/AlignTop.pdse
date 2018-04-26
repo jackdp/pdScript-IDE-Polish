@@ -1,0 +1,16 @@
+﻿[AlignTop]
+Caption=Align to top
+Hint=Align selected controls to top
+Group=Alignment
+Kind=Form
+HotKey=
+Script=
+Config=
+Caption.cs=Zarovnat nahoru
+Hint.cs=Zarovnat vybrané prvky nahoru
+Group.cs=Zarovnání
+
+Caption.pl=Wyrównaj do góry
+Hint.pl=Wyrównaj zaznaczone kontrolki do góry
+Group.pl=Wyrównanie
+

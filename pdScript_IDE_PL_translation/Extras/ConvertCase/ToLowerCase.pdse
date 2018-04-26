@@ -1,0 +1,16 @@
+﻿[ToLowerCase]
+Caption=To lower case
+Hint=Convert selected text to lower case
+Group=Convert case
+Kind=Code
+HotKey=
+Script=
+Config=
+Caption.cs=Na malá písmena
+Hint.cs=Převést vybraný text na malá písmena
+Group.cs=Velikost písmen
+
+Caption.pl=Na małe litery
+Hint.pl=Konwertuj zaznaczony tekst na małe litery
+Group.pl=Konwersja wielkości znaków
+

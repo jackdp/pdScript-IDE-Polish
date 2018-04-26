@@ -1,0 +1,16 @@
+﻿[LineComment]
+Caption=Line comment
+Hint=Add '//' to each line of selected code block
+Group=Comments
+Kind=Code
+HotKey=
+Script=
+Config=
+Caption.cs=Řádkový komentář
+Hint.cs=Přidat '//' na každý řádek vybraného bloku v kódu
+Group.cs=Komentáře
+
+Caption.pl=Wykomentuj linię
+Hint.pl=Dodaj '//' na początek każdej linii w zaznaczonym bloku
+Group.pl=Komentarze
+

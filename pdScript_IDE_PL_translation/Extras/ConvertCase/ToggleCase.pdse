@@ -1,0 +1,17 @@
+﻿[ToggleCase]
+Caption=Toggle case
+Hint=Toggle case of selected text characters
+Group=Convert case
+Kind=Code
+HotKey=
+Script=
+Config=
+Caption.cs=Inverzně
+Hint.cs=Změnit velikost písmen vybraného textu inverzně
+Group.cs=Velikost písmen
+
+Caption.pl=Inwersja wielkości znaków
+Hint.pl=Zamienia wielkie litery na małe a małe litery na wielkie
+Group.pl=Konwersja wielkości znaków
+
+

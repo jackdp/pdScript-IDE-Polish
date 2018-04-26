@@ -1,0 +1,16 @@
+﻿[AlignLeft]
+Caption=Align to left
+Hint=Align selected controls to left
+Group=Alignment
+Kind=Form
+HotKey=
+Script=
+Config=
+Caption.cs=Zarovnat vlevo
+Hint.cs=Zarovnat vybrané prvky vlevo
+Group.cs=Zarovnání
+
+Caption.pl=Wyrównaj do lewej
+Hint.pl=Wyrównaj zaznaczone kontrolki do lewej
+Group.pl=Wyrównanie
+

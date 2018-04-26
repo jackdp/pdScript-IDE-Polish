@@ -1,0 +1,15 @@
+﻿[UnComment]
+Caption=Block uncomment
+Hint=Uncomment selected code block
+Group=Comments
+
+Caption.cs=Zrušit komentář
+Hint.cs=Odstranit komentář z vybraného bloku kódu
+Group.cs=Komentáře
+
+Caption.pl=Usuń komentarz blokowy
+Hint.pl=Usuń komentarz blokowy w zaznaczonym tekście
+Group.pl=Komentarze
+
+HotKey=
+Kind=Code

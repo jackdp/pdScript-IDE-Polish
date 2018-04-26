@@ -1,0 +1,14 @@
+﻿[CopyCompNames]
+Caption=Copy component names
+Hint=Copy selected component names into clipboard
+Group=
+Kind=Form
+HotKey=
+Script=
+Config=
+Caption.cs=Kopírovat názvy komponent
+Hint.cs=Zkopírovat názvy vybraných komponent do schránky
+
+Caption.pl=Kopiuj nazwy komponentów
+Hint.pl=Kopiuje nazwy zaznaczonych komponentów do schowka
+

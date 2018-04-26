@@ -1,0 +1,16 @@
+﻿[AlignRight]
+Caption=Align to right
+Hint=Align selected controls to right
+Group=Alignment
+Kind=Form
+HotKey=
+Script=
+Config=
+Caption.cs=Zarovnat vpravo
+Hint.cs=Zarovnat vybrané prvky vpravo
+Group.cs=Zarovnání
+
+Caption.pl=Wyrównaj do prawej
+Hint.pl=Wyrównaj zaznaczone kontrolki do prawej
+Group.pl=Wyrównanie
+

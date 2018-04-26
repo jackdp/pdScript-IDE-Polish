@@ -1,0 +1,16 @@
+﻿[Highlighters]
+Caption=Syntax highlighting
+Hint=Syntax highlighting and other editor options
+Group=Editor options
+Kind=Code
+HotKey=
+Script=
+Config=
+Caption.cs=Zvýrazňování syntaxe
+Hint.cs=Nastavení zvýrazňování syntaxe a dalších možností editoru
+Group.cs=Možnosti editoru
+
+Caption.pl=Podświetlanie składni
+Hint.pl=Podświetlanie składni i inne opcje edytora
+Group.pl=Opcje edytora
+

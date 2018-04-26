@@ -1,0 +1,18 @@
+﻿[Comment]
+Kind=Code
+
+Caption=Block comment
+Hint=Comment selected code block with '{..}'
+Group=Comments
+
+Caption.cs=Vložit komentář
+Hint.cs=Zakomentovat vybraný blok kódu '{..}'
+Group.cs=Komentáře
+
+Caption.pl=Wykomentuj blok
+Hint.pl=Wykomentuj zaznaczony blok kodu ujmując go w nawiasy '{..}'
+Group.pl=Komentarze
+
+HotKey=
+; Script=Comment.js
+; Config=CommentCfg.dpas

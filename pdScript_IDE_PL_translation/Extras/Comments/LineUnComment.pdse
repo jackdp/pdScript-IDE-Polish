@@ -1,0 +1,15 @@
+﻿[LineUnComment]
+Caption=Line uncomment
+Hint=Search selected code block and remove '//' at lineheads
+Group=Comments
+
+Caption.cs=Zrušit řádkový komentář
+Hint.cs=Odstranit '//' z každého řádku vybraného bloku kódu
+Group.cs=Komentáře
+
+Caption.pl=Usuń komentarz linii
+Hint.pl=Usuń znaki '//' z początku wszystkich linii w zaznaczonym bloku
+Group.pl=Komentarze
+
+HotKey=
+Kind=Code

@@ -1,0 +1,15 @@
+﻿[ExtensionInfo]
+Caption=Extension Info Editor
+Hint=Allows you a comfortable editing of IDE extension header files (.pdse)
+Group=
+Kind=OnExtensionInfo
+HotKey=
+Script=
+Config=
+Caption.cs=Editor informací o rozšíření
+Hint.cs=Umožňuje pohodlně upravovat informační soubory doplňků IDE (.pdse)
+
+Caption.pl=Edytor informacji o rozszerzeniu
+Hint.pl=Umożliwia wygodną edycję plików nagłówkowych rozszerzeń IDE (.pdse)
+
+

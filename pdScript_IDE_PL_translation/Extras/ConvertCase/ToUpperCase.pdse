@@ -1,0 +1,15 @@
+﻿[ToUpperCase]
+Caption=To upper case
+Hint=Convert selected text to upper case
+Group=Convert case
+Kind=Code
+HotKey=
+Script=
+Config=
+Caption.cs=Na velká písmena
+Hint.cs=Převést vybraný text na velká písmena
+Group.cs=Velikost písmen
+
+Caption.pl=Na wielkie litery
+Hint.pl=Konwertuj zaznaczony tekst na wielkie litery
+Group.pl=Konwersja wielkości znaków

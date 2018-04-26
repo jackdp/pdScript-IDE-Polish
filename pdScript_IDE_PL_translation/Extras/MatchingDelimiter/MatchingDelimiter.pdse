@@ -1,0 +1,13 @@
+﻿[MatchingDelimiter]
+Caption=Move to matching delimiter
+Hint=Move the cursor to matching delimiter (begin..end, try..finally..end, etc.)
+Group=
+Kind=Code
+HotKey=Ctrl+Alt+Right
+Script=
+Config=
+Caption.cs=Přejít na odpovídající oddělovač
+Hint.cs=Nastavit se na odpovídající oddělovač (begin..end, try..finally..end, atd.)
+
+Caption.pl=Przejdź do zgodnego delimitera
+Hint.pl=Przenieś kursor do zgodnego delimitera (begin..end, try..finally..end, itp.)
