@@ -11,7 +11,7 @@ The pdScript IDE is a bit outdated (the last version released in 2013), but stil
 
 ## Download
 
-http://www.pazera-software.com/misc/pdscript-ide-pl/pdScript_IDE_PL_translation.zip
+https://www.pazera-software.com/files/misc/pdScript_IDE_PL_translation.zip
 
 ## Installation
 
@@ -22,10 +22,9 @@ http://www.pazera-software.com/misc/pdscript-ide-pl/pdScript_IDE_PL_translation.
 
 ## Screenshot
 
-![Screenshot](http://www.pazera-software.com/misc/pdscript-ide-pl/pdScript_IDE_PL.png)
+![Screenshot](https://www.pazera-software.com/files/misc/pdScript_IDE_PL.png)
 
 ## Useful links
-- Polish translation: http://www.pazera-software.com/misc/pdscript-ide-pl/
 - pdScript / pdScript IDE home page: http://www.be-precision.com/products/pdscript/index.php
 - pdScript / pdScript IDE help online: http://www.be-precision.com/products/pdscript/webhelp/en/index.htm
 - RemObjects Pascal Script home page: https://www.remobjects.com/Ps.aspx

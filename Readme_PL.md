@@ -11,7 +11,7 @@ pdScript IDE jest już troszkę przestarzały (ostatnie wydanie w roku 2013), al
 
 ## Pobierz
 
-http://www.pazera-software.com/misc/pdscript-ide-pl/pdScript_IDE_PL_translation.zip
+https://www.pazera-software.com/files/misc/pdScript_IDE_PL_translation.zip
 
 ## Instalacja
 
@@ -22,7 +22,7 @@ http://www.pazera-software.com/misc/pdscript-ide-pl/pdScript_IDE_PL_translation.
 
 ## Zrzut ekranu
 
-![Screenshot](http://www.pazera-software.com/misc/pdscript-ide-pl/pdScript_IDE_PL.png)
+![Screenshot](https://www.pazera-software.com/files/misc/pdScript_IDE_PL.png)
 
 ## Przydatne linki
 - Polskie tłumaczenie: http://www.pazera-software.com/misc/pdscript-ide-pl/
